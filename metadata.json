@@ -1,0 +1,5 @@
+{
+  "name": "Photo Culling Assistant",
+  "description": "An intuitive web application for photographers to quickly sort and select their best photos. Users can upload images, navigate with arrow keys, select with the spacebar, and export a list of their chosen shots.",
+  "requestFramePermissions": []
+}
